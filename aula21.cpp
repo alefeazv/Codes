@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+	cout << argv[0] << "\n\n";
+	
+	
+	
+	
+	
+system("pause");	
+return(0);	
+}
